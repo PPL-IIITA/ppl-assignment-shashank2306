@@ -15,7 +15,8 @@ Note: All the codes submitted are tested on  only openjdk version "1.8.0_121"
 
 
 ##Documentation :
->Documentation of each question can be found in the respective folder of the question
+>Documentation of each question is in javadoc
+
 
 ##Tools used:
 >JDK for code <br />
